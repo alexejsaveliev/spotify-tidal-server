@@ -1,0 +1,4 @@
+{
+    "connectionString": "mongodb://127.0.0.1:27017/spotify-tidal-sync",
+    "secret": "E8~RYp32vD,HU(rmU'wpfXmkmSzn"
+}
